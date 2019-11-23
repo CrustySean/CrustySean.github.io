@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## Welcome to Back0ldor's Website
 
-You can use the [editor on GitHub](https://github.com/Back0ldor/Back0ldor.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can find something about Nintendo Switch Mods
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Remember to use hack offline!!
 
-### Markdown
+---
+### Splatoon 2
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Splatoon2 PatchText can be applied with [IPSwitch](http://github.com/3096/IPSwitch/releases) by Dualie (aka 3096)
 
-```markdown
-Syntax highlighted code block
+[Here](https://github.com/OatmealDome/Splatoon-2-Misc-Patches) you can find some PatchTexts
 
-# Header 1
-## Header 2
-### Header 3
+Grab the PatchText that match with your Splatoon2 Version
 
-- Bulleted
-- List
+#### How do I apply these mods?
 
-1. Numbered
-2. List
+1: Move IPSwitch to the root (/) of your SD Card
 
-**Bold** and _Italic_ and `Code` text
+2: Create a folder inside the /switch folder called ```ipswitch``` 
 
-[Link](url) and ![Image](src)
-```
+#### You need to create a /Splatoon2 folder inside the /ipswitch folder if you want to use the mods for Splatoon2
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+3: Copy the PatchText that you've downloaded and paste it 
 
-### Jekyll Themes
+4: Eject your SD, then put it in your switch
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Back0ldor/Back0ldor.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+5: Go into RCM MODE and boot with [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere/releases) or [Kosmos](https://github.com/AtlasNX/Kosmos/releases)
 
-### Support or Contact
+6: Go to the album (hold R and press A on it) and select IPSwitch
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+7: Select ```Toggle PatchText ```
+
+8: Select the name of your PatchText
+
+9: Enjoy Enable/Disable the mods that you want 
+
+10: Press Y to save and apply the patch 
+
+11: Press + to exit
+
+12: Go to Splatoon2 and enjoy your mods
+
+---
+
+Soon Here
+
