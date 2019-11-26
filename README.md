@@ -19,7 +19,7 @@ Grab the PatchText that match with your Splatoon2 Version
 
 2: Create a folder inside the /switch folder called ```ipswitch``` 
 
-#### You need to create a /Splatoon2 folder inside the /ipswitch folder if you want to use the mods for Splatoon2
+***You need to create a /Splatoon2 folder inside the /ipswitch folder if you want to use the mods for Splatoon2***
 
 3: Copy the PatchText that you've downloaded and paste it 
 
@@ -43,5 +43,13 @@ Grab the PatchText that match with your Splatoon2 Version
 
 ---
 
-Soon Here
+***Unfinished Writeup***
+
+### 1) You need a copy of Splatoon2 (No Piracy Thx)
+
+### 2) Download IDA Decompiler and HxD
+
+### 3) Find the values/offsets that you want to patch 
+
+
 
