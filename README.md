@@ -42,7 +42,56 @@ Grab the PatchText that match with your Splatoon2 Version
 12: Go to Splatoon2 and enjoy your mods
 
 ---
+***ANTI-NOOB GUIDE (more faster way)***
 
+• Grab [HBappstore](https://github.com/4TU/HBappstore/releases)
+
+
+• Load homebrew and load HBappstore
+
+
+• Search IPSwitch in the ***search bar*** , download it and wait until it finish
+
+
+• Click ***DEL*** to delete the searched words
+
+
+• Search NX-Shell, download it and wait until it finish
+
+
+• Click ***DEL*** to delete the searched words
+
+
+• Now search nXDownload, download it and wait until it finish
+
+
+• Press ***-*** to exit
+
+
+• Go to nXDownload and click on ***Download from a temporaly URL***
+
+
+• Put the url where you "host" the PatchTexts and it'll download it
+
+
+• Go to NX-Shell, and click on /switch folder and inside the ***IPSwitch*** folder create a folder called: ***Splatoon2***
+
+
+• Press ***B*** to go back and go to /switch, now click on the ***nXdownload*** folder and you'll see the PatchText that you've downloaded
+
+
+•Click on it and press ***X*** and click on the ***move*** option, now click ***B*** to go back and go to /switch/ipswitch/Splatoon2 folder and click ***X*** to paste it
+ 
+
+• Press ***+*** to exit, go to IPSwitch and click on ***Toggle Patch Text Content*** select the PatchText and disable/enable the mods that you want
+
+
+• Click ***Y*** to save, click ***+*** and go to Splatoon2
+
+
+Now enjoy your mods!
+
+---
 ***Unfinished Writeup***
 
 ### 1) You need a copy of Splatoon2 (No Piracy Thx)
