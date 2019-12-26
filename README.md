@@ -2,6 +2,10 @@
 
 Here you can find something about Nintendo Switch Mods
 
+Where to find some cool mods?
+
+### [PatchText.Party](https://Back0ldor.github.io/PatchText.Party)
+
 #### Remember to use hack offline!!
 
 ---
