@@ -6,6 +6,8 @@ Where to find some cool mods?
 
 ### [PatchText.Party](https://Back0ldor.github.io/PatchText.Party)
 
+### [SeanGuide](https://crustysean.github.io/SeanGuide/) for the instruction
+
 #### Remember to use hack offline!!
 
 ## Known Nintendo Error Codes
