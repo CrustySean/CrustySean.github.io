@@ -4,9 +4,9 @@ Here you can find some cool stuff for Splatoon2
 
 Where to find some cool mods?
 
-### [PatchText.Party](https://crustysean.github.io/CrustyMods/) for mods
+### [CrustyMods](https://crustysean.github.io/CrustyMods/) for mods
 
-### [SeanGuide](https://crustysean.github.io/SeanGuide/) for the instruction
+### [CrustyGuide](https://crustysean.github.io/SeanGuide/) for the instruction
 
 #### Remember to use hack offline!!
 
