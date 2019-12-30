@@ -27,3 +27,5 @@ Switch :
 ***2124-4027*** : Permanent Splatoon 2 Console ban, you cant play splatoon 2 online anymore on this console.
 
 Thanks to: [@SamuelBessega](https://www.youtube.com/channel/UCypWFxm4kmGepmL0WwfW32Q) and [@OctoSquiddy](https://www.youtube.com/channel/UCRiv_r1fxFaoOHqrzRpllDg)
+
+[Join my discord server](https://discord.gg/VVub5nf)
