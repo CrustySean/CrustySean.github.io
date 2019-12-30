@@ -4,7 +4,7 @@ Here you can find some cool stuff for Splatoon2
 
 Where to find some cool mods?
 
-### [PatchText.Party](https://Back0ldor.github.io/PatchText.Party)
+### [PatchText.Party](https://Back0ldor.github.io/PatchText.Party) for mods
 
 ### [SeanGuide](https://crustysean.github.io/SeanGuide/) for the instruction
 
