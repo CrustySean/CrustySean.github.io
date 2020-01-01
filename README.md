@@ -6,7 +6,7 @@ Where to find some cool mods?
 
 ### [CrustyMods](https://crustysean.github.io/CrustyMods/) for mods
 
-### [CrustyGuide](https://crustysean.github.io/SeanGuide/) for the instruction
+### [CrustyGuide](https://crustysean.github.io/CrustyGuide/) for the instruction
 
 #### Remember to use hack offline!!
 
