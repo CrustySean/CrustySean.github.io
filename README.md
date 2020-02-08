@@ -4,7 +4,15 @@ Here you can find some cool stuff for Splatoon2
 
 ---
 
-Where to find some cool mods?
+### Where to find me?
+
+[Twitter](https://twitter.com/CrustySean_)
+
+[Discord](https://discord.gg/9yaGmzF)
+
+---
+
+### Crusty's kiosk
 
 ### [CrustyMods](https://crustysean.github.io/CrustyMods/) for mods
 
