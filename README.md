@@ -18,8 +18,6 @@ Here you can find some cool stuff for Splatoon2
 
 ### [CrustyGuide](https://crustysean.github.io/CrustyGuide/) for the instruction
 
-### [CrustyError](https://crustysean.github.io/ErrCodes/) for error codes
-
 #### Remember to use hack offline!!
 
 ---
