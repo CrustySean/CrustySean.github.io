@@ -8,7 +8,7 @@ Here you can find some cool stuff for Splatoon2
 
 [Twitter](https://twitter.com/CrustySean_)
 
-[Discord](https://discord.gg/cD4GnpA)
+[Discord](https://discord.gg/2gjrSsP)
 
 ---
 
