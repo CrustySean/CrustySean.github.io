@@ -1,5 +1,8 @@
 ## Welcome to Crusty's Website
 
+<p align="center"><img src="https://github.com/CrustySean/CrustySean.github.io/blob/master/Contents/S2.jpg"><br />
+  </p>
+
 Here you can find some cool stuff for Splatoon2
 
 ---
